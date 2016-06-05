@@ -3,7 +3,7 @@ published: true
 title: Git ignore global
 layout: post
 ---
-# Declare the global .gitignore file
+    Declare the global .gitignore file
     git config --global core.excludesfile ~/.gitignore_global
     
     # Create the file
