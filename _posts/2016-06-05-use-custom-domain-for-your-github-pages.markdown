@@ -1,6 +1,6 @@
 ---
 published: true
-title: Use costom domain for your github pages
+title: Use custom domain for your github pages
 layout: post
 ---
 Create file called CNAME on your root github repository and wite your custom domain there.
