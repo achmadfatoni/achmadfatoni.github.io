@@ -5,7 +5,7 @@ layout: post
 ---
 Create file called CNAME on your root github repository and wite your custom domain there.
 
-`ie: CNAME`
+ie: CNAME
 
 `achmadfatoni.com`
 
